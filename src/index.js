@@ -1,5 +1,5 @@
 const message1 = "if you take everything i've accomplished in my entire life and condense it down into a day... it looks decent!";
-const message2 = "Do you ever yearn? Often, I sit… and yearn";
+const message2 = "Do you ever yearn? Often I sit… and yearn";
 const message3 = "I don't want hope. Hope is killing me. My dream is to become hopeless. When you're hopeless you don't care. And when you don't care, that indifference makes you attractive";
 const message4 = "Do you have any conceivable reason for even getting up in the morning)";
 const message5 = "It's not a lie if you believe it";
